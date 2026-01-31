@@ -1,4 +1,4 @@
-# Image-Processing
+# Image-Processing-Go
 
 This project aims to build an efficient go-pipeline for image processing. It utilizes the go concurrency pattern to achieve high performance.
 The pipeline consists of multiple stages, each responsible for a specific image processing task.
